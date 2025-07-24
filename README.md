@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ashwin Prasad</h1>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 
-<!--
-**soulashwinn/soulashwinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **IoT + Web-based Projects**
+- 🌱 I’m currently learning **Backend Development, React, and Security**
+- 👯 I’m looking to collaborate on **Open Source and Tech Communities**
+- 💬 Ask me about **Python, ESP8266, APIs, or Cybersecurity**
+- 📫 How to reach me: **your.email@example.com**
+- ⚡ Fun fact: I love turning ideas into working code!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Languages and Tools:
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,arduino,git,github,linux,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Stats:
+![Ashwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashwinprasad&show_icons=true&theme=tokyonight)
+
+---
+
+### 🌐 Connect with me:
+<p>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
