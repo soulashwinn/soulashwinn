@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Ashwin Prasad</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h1 align="center">Hi ✋🏻, I'm Ashwin Prasad</h1>
+<h3 align="center">A passionate Cybersecurity Analyst from India</h3>
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I’m currently working on **IoT + Web-based Projects**
-- 🌱 I’m currently learning **Backend Development, React, and Security**
+- 🔭 I’m currently working on **IoT + Web-based Projects + Cybersecurity Projects**
+- 🌱 I’m currently learning **Linux , Ccna, and Security**
 - 👯 I’m looking to collaborate on **Open Source and Tech Communities**
 - 💬 Ask me about **Python, ESP8266, APIs, or Cybersecurity**
 - 📫 How to reach me: **your.email@example.com**
