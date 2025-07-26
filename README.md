@@ -1,4 +1,4 @@
-[![logo](https://github.com/niikhiljha/niikhiljha/blob/main/Nikhil%20jha.jpg)]
+
 [![logo](https://raw.githubusercontent.com/soulashwinn/soulashwinn/refs/heads/main/soulashwinn12.png)
 <h1 align="center">Hi 👋, I'm Ashwin Prasad</h1>
 <h3 align="center">A Passionate Cybersecurity Analyst | Network Security | from India</h3>
