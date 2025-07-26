@@ -1,4 +1,4 @@
-<h1 align="center">Hi ✋🏻, I'm Ashwin Prasad</h1>
+<h1 align="center">Hi 👋, I'm Ashwin Prasad</h1>
 <h3 align="center">A passionate Cybersecurity Analyst from India</h3>
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
@@ -26,7 +26,7 @@
 
 ### 🌐 Connect with me:
 <p>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:your.soulashwinn@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/ashwin-prasad-660900376"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
