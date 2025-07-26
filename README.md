@@ -1,3 +1,5 @@
+[![logo](https://github.com/niikhiljha/niikhiljha/blob/main/Nikhil%20jha.jpg)]
+[![logo](https://raw.githubusercontent.com/soulashwinn/soulashwinn/refs/heads/main/soulashwinn12.png)
 <h1 align="center">Hi 👋, I'm Ashwin Prasad</h1>
 <h3 align="center">A Passionate Cybersecurity Analyst | Network Security | from India</h3>
 
@@ -7,7 +9,7 @@
 - 🌱 I’m currently learning **Linux , Network Security, and Security**
 - 👯 I’m looking to collaborate on **Open Source and Tech Communities**
 - 💬 Ask me about **Python, ESP8266, APIs, or Cybersecurity**
-- 📫 How to reach me: **https://www.linkedin.com/in/ashwin-prasad-660900376/**
+- 📫 How to reach me: **soulashwinn@gmail.com**
 - ⚡ Fun fact: I love turning ideas into working code!
 
 ---
