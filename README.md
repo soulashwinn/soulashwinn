@@ -1,5 +1,4 @@
-
-![logo](https://raw.githubusercontent.com/soulashwinn/soulashwinn/refs/heads/main/soulashwinn12.png)
+![logo](https://github.com/soulashwinn/soulashwinn/blob/main/soulashwinn131584x396.png?raw=true)
 <h1 align="center">Hi 👋, I'm Ashwin Prasad</h1>
 <h3 align="center">A Passionate Cybersecurity Analyst | Network Security | from India</h3>
 
